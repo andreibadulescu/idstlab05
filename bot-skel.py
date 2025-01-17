@@ -1,6 +1,6 @@
 #!./.venv/bin/python
 
-BOT_TOKEN="MTMwOTg4ODE2NjAzNDkzNTkyOQ.GKJL7j.p3zdl7GccgUuCZQoDbafsJumPoU6gJVGZZsVAM"
+BOT_TOKEN="MTMwOTg4ODE2NjAzNDkzNTkyOQ.GKJL7j.p3zdl7GccgUuCZQoDbafsJumPoU6gJVGZZsVAMX"
  
 import discord      # base discord module
 import code         # code.interact
